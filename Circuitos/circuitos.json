@@ -1,0 +1,3287 @@
+[
+    {
+        "id": "1",
+        "ejercicio_guia": "1",
+        "datos_entrada": "V1=25 V ; R1=20 Ω ; R4=80 Ω ; I0=600 mA ; I2=150 mA ; I4=200 mA",
+        "variables": [
+            {
+                "nombre": "R2",
+                "respuesta": 60.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 40.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 450.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 400.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 16.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "ejercicio_guia": "2",
+        "datos_entrada": "V1=1 V ; R1=200 Ω ; R2=100 Ω ; Va=200 mV ; R4=1 Ω ; R5=R4 ; I2=2 mA ; I5=2 mA",
+        "variables": [
+            {
+                "nombre": "R3",
+                "respuesta": 100.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 4.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 2.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 0.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 0.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "ejercicio_guia": "3",
+        "datos_entrada": "V1=10 V ; V2=10 V ; R1=10 Ω ; R2=5 Ω ; R4 central=10 Ω ; resistencia derecha=15 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 200.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 400.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 200.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 400.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "ejercicio_guia": "4",
+        "datos_entrada": "V1=10 V ; R1=20 Ω ; R4=80 Ω ; I0=240 mA ; I2=60 mA ; I4=80 mA",
+        "variables": [
+            {
+                "nombre": "R2",
+                "respuesta": 60.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 64.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 180.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 6.4,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "ejercicio_guia": "5",
+        "datos_entrada": "V1=10 V ; R1=200 Ω ; R2=200 Ω ; Va=4 V ; R4=500 Ω ; R5=R4 ; I2=10 mA ; I5=10 mA",
+        "variables": [
+            {
+                "nombre": "R3",
+                "respuesta": 400.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 30.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 20.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 0.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 0.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "ejercicio_guia": "6",
+        "datos_entrada": "V1=100 V ; V2=100 V ; R1=20 Ω ; R2=100 Ω ; resistencia central=100 Ω ; resistencia derecha=50 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 500.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 600.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 600.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "ejercicio_guia": "7",
+        "datos_entrada": "R1=10 Ω ; R3=10 Ω ; I2=100 mA ; I3=40 mA",
+        "variables": [
+            {
+                "nombre": "V",
+                "respuesta": 1.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 140.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 15.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 0.4,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "ejercicio_guia": "8",
+        "datos_entrada": "Fuente=24 V ; R1=2 Ω ; R3=4 Ω ; R4=4 Ω ; Va=14,4 V ; Vb-Vc=4,8 V ; Vc=4,8 V",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 4.8,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 2.4,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 2.4,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 2.4,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I5",
+                "respuesta": 2.4,
+                "unidad": "A"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 2.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R5",
+                "respuesta": 2.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "ejercicio_guia": "10",
+        "datos_entrada": "I1=1,75 A ; R2=4 Ω ; R3=16 Ω ; I3=0,5 A",
+        "variables": [
+            {
+                "nombre": "V",
+                "respuesta": 10.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 8.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 1.25,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 8.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "ejercicio_guia": "11",
+        "datos_entrada": "V1=64 V ; R1=16 Ω ; R3=13 Ω ; R4=24 Ω ; Va=32 V ; Vb-Vc=5 V ; Vc=8 V",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I5",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 19.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R5",
+                "respuesta": 8.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "ejercicio_guia": "12",
+        "datos_entrada": "V1=200 V ; R1=150 Ω ; R2=128 Ω ; R3=256 Ω ; R4=512 Ω ; R6=50 Ω ; Va=50 V",
+        "variables": [
+            {
+                "nombre": "Req a calcular",
+                "respuesta": 0,
+                "unidad": ""
+            },
+            {
+                "nombre": "R5",
+                "respuesta": 0.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "ejercicio_guia": "13",
+        "datos_entrada": "I1=132 mA ; I3=120 mA ; R2=750 Ω ; V1=12 V",
+        "variables": [
+            {
+                "nombre": "I2",
+                "respuesta": 12.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 250.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 100.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 9.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "ejercicio_guia": "14",
+        "datos_entrada": "I1=125 mA ; R2=400 Ω ; Va=40 V ; V1=50 V",
+        "variables": [
+            {
+                "nombre": "I2",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 25.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 125.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 80.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 1600.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "ejercicio_guia": "15",
+        "datos_entrada": "R1=50 Ω ; R2=50 Ω ; R3=400 Ω ; R4=100 Ω ; V1=60 V ; V2=30 V",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 200.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": -100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 50.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 40.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "ejercicio_guia": "16",
+        "datos_entrada": "V1=100 V ; R1=45 Ω ; R2=55 Ω ; R3=50 Ω",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 55.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 3.0,
+                "unidad": "A"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "ejercicio_guia": "17",
+        "datos_entrada": "R4=6 Ω ; Va=25 V ; Vb=16,5 V ; Vc=1,5 V ; V1=50 V",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 100.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 34.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 60.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R4",
+                "respuesta": 6.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 250.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "ejercicio_guia": "18",
+        "datos_entrada": "R1=R2=R3=R4=50 Ω ; V1=20 V ; V2=40 V",
+        "variables": [
+            {
+                "nombre": "i1",
+                "respuesta": 0.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "i2",
+                "respuesta": 400.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "i3",
+                "respuesta": 400.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 20.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "ejercicio_guia": "19",
+        "datos_entrada": "V1=100 V ; Va=25 V ; R3=200 Ω ; i1=2 A",
+        "variables": [
+            {
+                "nombre": "I2",
+                "respuesta": 1.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 50.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2≈16,67 Ω",
+                "respuesta": 0,
+                "unidad": ""
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "ejercicio_guia": "20",
+        "datos_entrada": "R4=6 Ω ; Va=50 V ; Vb=33 V ; Vc=3 V ; V1=100 V",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 100.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 34.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 60.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R4",
+                "respuesta": 6.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 500.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "ejercicio_guia": "22",
+        "datos_entrada": "V1=200 V ; R1=45 Ω ; R2=55 Ω ; R3=50 Ω",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 110.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 6.0,
+                "unidad": "A"
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "ejercicio_guia": "23",
+        "datos_entrada": "V1=15 V ; R1=0 Ω ; R2=5 Ω ; R3=9 Ω ; R4=6 Ω",
+        "variables": [
+            {
+                "nombre": "i1",
+                "respuesta": 4.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "i2",
+                "respuesta": 3.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "i3",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 15.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 6.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "ejercicio_guia": "24",
+        "datos_entrada": "R1=2 Ω ; R2=2 Ω ; R3=6 Ω ; V1=70 V ; V2=35 V",
+        "variables": [
+            {
+                "nombre": "i1",
+                "respuesta": 15.3125,
+                "unidad": "A"
+            },
+            {
+                "nombre": "i2",
+                "respuesta": -2.1875,
+                "unidad": "A"
+            },
+            {
+                "nombre": "i3",
+                "respuesta": 6.5625,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 39.375,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "ejercicio_guia": "25",
+        "datos_entrada": "V1=100 V ; Va=25 V ; R3=200 Ω ; i1=1,75 A",
+        "variables": [
+            {
+                "nombre": "I2",
+                "respuesta": 1.25,
+                "unidad": "A"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 60.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 20.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "ejercicio_guia": "26",
+        "datos_entrada": "V1=30 V ; R1=6 Ω ; R2=9 Ω ; R3=5 Ω ; R4=0 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 8.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 6.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 18.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 0.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "ejercicio_guia": "27",
+        "datos_entrada": "R1=2 Ω ; R2=2 Ω ; R3=6 Ω ; V1=35 V ; V2=70 V",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": -2.1875,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 15.3125,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 6.5625,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 39.375,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "ejercicio_guia": "28",
+        "datos_entrada": "V1=12 V ; Va=4,5 V ; i2=1 mA ; i3=3 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 12.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 2.5,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 1.5,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "ejercicio_guia": "29",
+        "datos_entrada": "V1=18 V ; Va=5 V ; i2=5 mA ; R3=625 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 13.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 1.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 1.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 8.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "ejercicio_guia": "30",
+        "datos_entrada": "V1=40 V ; V2=20 V ; R1=10 Ω ; R2=10 Ω ; R3=15 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 1.75,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": -0.25,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 1.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 22.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "ejercicio_guia": "31",
+        "datos_entrada": "V=12 V ; R1=2 Ω ; R2=2 Ω ; R3=2 Ω ; I4=4 A",
+        "variables": [
+            {
+                "nombre": "I0",
+                "respuesta": 8.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 4.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 8.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Rx",
+                "respuesta": 3.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "ejercicio_guia": "32",
+        "datos_entrada": "V1=10 V ; V2=5 V ; R1=4 Ω ; R2=2 Ω ; R3=2 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 1.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 0.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "ejercicio_guia": "33",
+        "datos_entrada": "V=24 V ; R1=6 Ω ; R2=10 Ω ; R3=8 Ω ; R4=12 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 3.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 18.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 8.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "ejercicio_guia": "34",
+        "datos_entrada": "V=24 V ; R1=4 Ω ; R2=4 Ω ; R3=4 Ω ; R4=4 Ω",
+        "variables": [
+            {
+                "nombre": "I0",
+                "respuesta": 14.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 4.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 16.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 6.0,
+                "unidad": "A"
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "ejercicio_guia": "35",
+        "datos_entrada": "V1=10 V ; V2=10 V ; R1=20 Ω ; R2=20 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 0.25,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 0.25,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 0.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 5.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "ejercicio_guia": "36",
+        "datos_entrada": "V=20 V ; R1=4 Ω ; R2=3 Ω ; R3=3 Ω ; R4=5 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 6.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 12.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 6.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "ejercicio_guia": "37",
+        "datos_entrada": "V=6 V ; R1=2 Ω ; R2=2 Ω ; R3=2 Ω ; R4=12 Ω",
+        "variables": [
+            {
+                "nombre": "I0",
+                "respuesta": 2.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I4",
+                "respuesta": 0.5,
+                "unidad": "A"
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "ejercicio_guia": "38",
+        "datos_entrada": "V1=20 V ; V2=10 V ; R1=5 Ω ; R2=5 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 1.6,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": -0.4,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 1.2,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 12.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "ejercicio_guia": "39",
+        "datos_entrada": "V=10 V ; R1=4 Ω ; R2=3 Ω ; R3=3 Ω ; R4=5 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 3.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 6.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 3.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "ejercicio_guia": "40",
+        "datos_entrada": "V=24 V ; R1=2 Ω ; R2=2 Ω ; R3=2 Ω ; I4=4 A",
+        "variables": [
+            {
+                "nombre": "I0",
+                "respuesta": 12.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 4.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 4.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 8.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 16.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Rx",
+                "respuesta": 6.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "ejercicio_guia": "41",
+        "datos_entrada": "V1=10 V ; V2=20 V ; R1=5 Ω ; R2=5 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 0.4,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 2.4,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 2.8,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 28.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "ejercicio_guia": "42",
+        "datos_entrada": "V1=6 V ; R1=6 Ω ; R2=10 Ω ; R3=8 Ω ; R4=12 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 0.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 3.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 2.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "ejercicio_guia": "43",
+        "datos_entrada": "V1=12 V ; R1=2 Ω ; I0=2,25 A ; I3=750 mA",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 3.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 1.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Ra",
+                "respuesta": 4.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "Rb",
+                "respuesta": 4.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "ejercicio_guia": "44",
+        "datos_entrada": "V1=15 V ; V2=30 V ; R1=5 Ω ; R2=20 Ω ; R3=20 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 0.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 0.75,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 0.75,
+                "unidad": "A"
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "ejercicio_guia": "45",
+        "datos_entrada": "V1=36 V ; V2=18 V ; V3=2 V ; R1=4 Ω ; R2=76 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 0.2,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 18.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 2.8,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vc",
+                "respuesta": 0.8,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "ejercicio_guia": "46",
+        "datos_entrada": "V1=6 V ; R1=4 Ω ; I0=1,8 A ; I3=1,2 A",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 2.4,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 0.6,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Ra",
+                "respuesta": 2.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "Rb",
+                "respuesta": 2.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "ejercicio_guia": "47",
+        "datos_entrada": "V1=30 V ; V2=30 V ; R1=5 Ω ; R2=20 Ω ; R3=20 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 0.25,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 1.25,
+                "unidad": "A"
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "ejercicio_guia": "48",
+        "datos_entrada": "V1=24 V ; V2=12 V ; V3=6 V ; R1=6 Ω ; R2=30 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 0.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 12.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": -3.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vc",
+                "respuesta": 3.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "ejercicio_guia": "49",
+        "datos_entrada": "V1=36 V ; R1=3 kΩ ; R2=1,1 kΩ ; R3=700 Ω",
+        "variables": [
+            {
+                "nombre": "I2",
+                "respuesta": 12.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 20.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 14.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "ejercicio_guia": "50",
+        "datos_entrada": "V1=15 V ; Va=6 V ; R2=2,4 kΩ ; I3=2 mA",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 4.5,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 2.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 3.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 2.5,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "51",
+        "ejercicio_guia": "51",
+        "datos_entrada": "V1=10 V ; V2=30 V ; R1=5 Ω ; R2=5 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": -1.2,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 2.8,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 1.6,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 16.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "ejercicio_guia": "52",
+        "datos_entrada": "V=5 V ; I1=250 mA ; I2=500 mA",
+        "variables": [
+            {
+                "nombre": "I",
+                "respuesta": 750.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 20.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 10.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "ejercicio_guia": "53",
+        "datos_entrada": "V1=12 V ; V2=15 V ; R1=10 Ω ; R2=10 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 0.3,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 0.6,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 0.9,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 9.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "ejercicio_guia": "54",
+        "datos_entrada": "V1=12 V ; V2=6 V ; R1=100 Ω ; I2=10 mA ; I3=20 mA",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 30.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 9.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 300.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 150.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "ejercicio_guia": "55",
+        "datos_entrada": "V=12 V ; I1=20 mA ; I2=60 mA",
+        "variables": [
+            {
+                "nombre": "I",
+                "respuesta": 80.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 600.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 200.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "ejercicio_guia": "56",
+        "datos_entrada": "V1=5 V ; V2=4 V ; R1=100 Ω ; R2=100 Ω ; R3=100 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 20.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 10.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 30.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 3.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "ejercicio_guia": "57",
+        "datos_entrada": "V1=35 V ; V2=15 V ; R1=5 Ω ; I2=1 A ; I3=2 A",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 3.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 20.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 5.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 2.5,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "ejercicio_guia": "58",
+        "datos_entrada": "V1=25 V ; V2=10 V ; R1=5 Ω ; R2=5 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 2.2,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": -0.8,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 1.4,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 14.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "ejercicio_guia": "59",
+        "datos_entrada": "V1=10 V ; V2=5 V ; I0=7 A ; I2=2 A ; I3=1 A",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 8.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 1.25,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 5.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 5.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "ejercicio_guia": "60",
+        "datos_entrada": "V=5 V ; R1=100 Ω ; R2=150 Ω ; R3=250 Ω",
+        "variables": [
+            {
+                "nombre": "I",
+                "respuesta": 10.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 2.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "ejercicio_guia": "61",
+        "datos_entrada": "R1=750 Ω ; R2=1,5 kΩ ; I=30 mA",
+        "variables": [
+            {
+                "nombre": "V1",
+                "respuesta": 15.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 20.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 10.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "ejercicio_guia": "62",
+        "datos_entrada": "V1=8 V ; V2=10 V ; R1=1 Ω ; R2=2 Ω ; R3=1,5 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 4.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 6.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "63",
+        "ejercicio_guia": "63",
+        "datos_entrada": "R1=10 Ω ; R2=15 Ω ; R3=30 Ω ; Va=4,2 V ; V2=3,3 V",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 90.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 60.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 30.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "V1",
+                "respuesta": 5.1,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "64",
+        "ejercicio_guia": "64",
+        "datos_entrada": "R1=4 kΩ ; R2=4 kΩ ; I=2,5 mA",
+        "variables": [
+            {
+                "nombre": "V1",
+                "respuesta": 5.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 1.25,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 1.25,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "65",
+        "ejercicio_guia": "65",
+        "datos_entrada": "V1=12 V ; V2=10 V ; R1=200 Ω ; R2=100 Ω ; R3=100 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 28.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 36.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 64.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 6.4,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "ejercicio_guia": "66",
+        "datos_entrada": "R1=25 Ω ; R2=100 Ω ; R3=100 Ω ; Va=6 V ; V2=5 V",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 20.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 10.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 10.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "V1",
+                "respuesta": 6.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "67",
+        "ejercicio_guia": "67",
+        "datos_entrada": "V1=30 V ; V2=24 V ; R1=500 Ω ; R2=500 Ω ; R3=200 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 36.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 24.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 60.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 12.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "68",
+        "ejercicio_guia": "68",
+        "datos_entrada": "V1=12 V ; R1=indeterminada ; R2=indeterminada ; R3=500 Ω ; I0=40 mA ; I1=10 mA ; I2=20 mA",
+        "variables": [
+            {
+                "nombre": "I3",
+                "respuesta": 10.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 1.2,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 600.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "V2",
+                "respuesta": 7.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "69",
+        "ejercicio_guia": "69",
+        "datos_entrada": "V1=15 V ; Va=12 V ; Vb=5 V ; I=20 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 150.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 350.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 250.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "70",
+        "ejercicio_guia": "70",
+        "datos_entrada": "V1=40 V ; V2=30 V ; R1=20 Ω ; R2=20 Ω ; R3=25 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 750.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 250.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 25.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "71",
+        "ejercicio_guia": "71",
+        "datos_entrada": "V1=6 V ; V2=2 V ; I0=30 mA ; I2=10 mA ; I3=5 mA",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 15.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 400.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 600.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 800.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "ejercicio_guia": "72",
+        "datos_entrada": "V=7,5 V ; R1=1 kΩ ; R2=2 kΩ ; R3=3 kΩ",
+        "variables": [
+            {
+                "nombre": "I",
+                "respuesta": 1.25,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 6.25,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 3.75,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "ejercicio_guia": "73",
+        "datos_entrada": "V1=5 V ; V2=3 V ; R1=8 Ω ; R2=4 Ω ; R3=1 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 0.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 0.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 1.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 1.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "74",
+        "ejercicio_guia": "74",
+        "datos_entrada": "V1=5 V ; R3=1,7 kΩ ; I0=8 mA ; I1=5 mA ; I2=2 mA",
+        "variables": [
+            {
+                "nombre": "I3",
+                "respuesta": 1.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 2.5,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "V2",
+                "respuesta": 3.3,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "75",
+        "ejercicio_guia": "75",
+        "datos_entrada": "V=25 V ; Va=10 V ; Vb=2,5 V ; I=2,5 A",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 6.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 3.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 1.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "76",
+        "ejercicio_guia": "76",
+        "datos_entrada": "V1=12 V ; V2=6 V ; R1=20 Ω ; R2=20 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 375.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 75.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 450.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "77",
+        "ejercicio_guia": "77",
+        "datos_entrada": "V=5 V ; R1=300 Ω ; R2=300 Ω ; R3=150 Ω ; R4=25 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 12.5,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 12.5,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 25.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 1.25,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "ejercicio_guia": "78",
+        "datos_entrada": "V=15 V ; I=10 mA ; Va=15 V ; Vb=7 V",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 0.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 800.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 700.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "79",
+        "ejercicio_guia": "79",
+        "datos_entrada": "V1=12 V ; V2=3 V ; R1=30 Ω ; R2=15 Ω ; R3=30 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 250.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": -100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 150.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "80",
+        "ejercicio_guia": "80",
+        "datos_entrada": "V1=15 V ; V2=5 V ; R1=3 Ω ; R2=2 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 2.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 9.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "81",
+        "ejercicio_guia": "81",
+        "datos_entrada": "V=15 V ; R1=250 Ω ; R2=50 Ω ; R3=50 Ω ; R4=100 Ω",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 5.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 40.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 20.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 20.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "82",
+        "ejercicio_guia": "82",
+        "datos_entrada": "V=6 V ; Va=3 V ; Vb=2 V ; I=2 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 1.5,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 500.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            }
+        ]
+    },
+    {
+        "id": "83",
+        "ejercicio_guia": "83",
+        "datos_entrada": "V1=14 V ; V2=28 V ; R1=2 Ω ; R2=2 Ω ; R3=1 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 1.75,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 8.75,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 10.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 10.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "84",
+        "ejercicio_guia": "84",
+        "datos_entrada": "V1=15 V ; Va=12 V ; I2=2 mA ; I3=3 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 600.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 6.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 4.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 5.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "85",
+        "ejercicio_guia": "85",
+        "datos_entrada": "V1=15 V ; Va=6 V ; Vb=4,5 V ; I=15 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 600.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 100.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 300.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "86",
+        "ejercicio_guia": "86",
+        "datos_entrada": "V1=3 V ; V2=9 V ; R1=150 Ω ; R2=150 Ω ; R3=5 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 17.5,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 57.5,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 75.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 0.375,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "87",
+        "ejercicio_guia": "87",
+        "datos_entrada": "V=5 V ; Va=2 V ; I2=2 A ; I3=1 A",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 1.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 1.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 2.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 3.0,
+                "unidad": "A"
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "ejercicio_guia": "88",
+        "datos_entrada": "V1=8 V ; V2=4 V ; R1=40 Ω ; R2=20 Ω ; R3=40 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 0.0,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "89",
+        "ejercicio_guia": "89",
+        "datos_entrada": "V1=25 V ; R1=200 Ω ; R2=100 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 375.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 125.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 250.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "90",
+        "ejercicio_guia": "90",
+        "datos_entrada": "V1=20 V ; Va=5 V ; I2=2,5 A ; I3=4 A",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 6.5,
+                "unidad": "A"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 8.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 3.75,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 1.25,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "91",
+        "ejercicio_guia": "91",
+        "datos_entrada": "V1=8 V ; V2=4 V ; R1=40 Ω ; R2=20 Ω ; R3=20 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 120.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 40.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 160.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 3.2,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "92",
+        "ejercicio_guia": "92",
+        "datos_entrada": "V=3,3 V ; R1=3 kΩ ; R2=1 kΩ",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 4.4,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 1.1,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 3.3,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "93",
+        "ejercicio_guia": "93",
+        "datos_entrada": "V1=9 V ; Va=5 V ; I2=250 mA ; I3=100 mA",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 350.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "R1",
+                "respuesta": 36.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 40.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 50.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "94",
+        "ejercicio_guia": "94",
+        "datos_entrada": "V1=12 V ; V2=3 V ; R1=30 Ω ; R2=15 Ω ; R3=15 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 280.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": -40.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 240.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 3.6,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "95",
+        "ejercicio_guia": "95",
+        "datos_entrada": "V1=9 V ; V2=3 V ; R1=6 Ω ; R2=12 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 333.33,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 7.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "96",
+        "ejercicio_guia": "96",
+        "datos_entrada": "V=25 V ; R1=1 kΩ ; R2=1 kΩ ; R3=1 kΩ ; R4=1 kΩ",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 15.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 10.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 5.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 5.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "97",
+        "ejercicio_guia": "97",
+        "datos_entrada": "V1=12 V ; V2=6 V ; R1=30 Ω ; R2=15 Ω ; R3=15 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 240.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 80.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 320.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.8,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "98",
+        "ejercicio_guia": "98",
+        "datos_entrada": "V=9 V ; R1=500 Ω ; R2=250 Ω ; R3=500 Ω ; R4=25 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 15.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 30.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 15.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 1.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "99",
+        "ejercicio_guia": "99",
+        "datos_entrada": "V1=15 V ; Va=12 V ; Vb=5 V ; I=20 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 150.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 350.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 250.0,
+                "unidad": "Ω"
+            }
+        ]
+    },
+    {
+        "id": "100",
+        "ejercicio_guia": "100",
+        "datos_entrada": "V=9 V ; R1=5 kΩ ; R2=8 kΩ ; R3=2 kΩ",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 6.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 1.2,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 0.6,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "101",
+        "ejercicio_guia": "101",
+        "datos_entrada": "V=7 V ; R1=30 Ω ; R2=10 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 200.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 1.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "102",
+        "ejercicio_guia": "102",
+        "datos_entrada": "V1=36 V ; V2=30 V ; R1=600 Ω ; R2=300 Ω ; R3=300 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 28.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 36.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 64.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 19.2,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "103",
+        "ejercicio_guia": "103",
+        "datos_entrada": "V=330 V ; Va=231 V ; Vb=165 V ; I=66 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 1.5,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 2.5,
+                "unidad": "kΩ"
+            }
+        ]
+    },
+    {
+        "id": "104",
+        "ejercicio_guia": "104",
+        "datos_entrada": "V1=30 V ; V2=90 V ; R1=150 Ω ; R2=150 Ω ; R3=5 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 175.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 575.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 750.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 3.75,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "105",
+        "ejercicio_guia": "105",
+        "datos_entrada": "V1=25 V ; Va=10 V ; I2=200 mA ; I3=50 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 60.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 50.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 200.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 250.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "106",
+        "ejercicio_guia": "106",
+        "datos_entrada": "V=9 V ; Va=6 V ; Vb=3 V ; I=3 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            }
+        ]
+    },
+    {
+        "id": "107",
+        "ejercicio_guia": "107",
+        "datos_entrada": "V1=9 V ; V2=27 V ; R1=3 Ω ; R2=3 Ω ; R3=1 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 600.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 6.6,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 7.2,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 7.2,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "108",
+        "ejercicio_guia": "108",
+        "datos_entrada": "V=5 V ; Va=2 V ; I2=2 mA ; I3=1 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 2.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 3.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "109",
+        "ejercicio_guia": "109",
+        "datos_entrada": "V1=12 V ; V2=3 V ; R1=60 Ω ; R2=30 Ω ; R3=60 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 125.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": -50.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 75.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "111",
+        "ejercicio_guia": "111",
+        "datos_entrada": "V=12 V ; R1=30 Ω ; R2=15 Ω ; R3=30 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 250.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 150.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 4.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "112",
+        "ejercicio_guia": "112",
+        "datos_entrada": "V=9 V ; R1=5 kΩ ; R2=8 kΩ ; R3=2 kΩ",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 6.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 1.2,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 0.6,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "113",
+        "ejercicio_guia": "113",
+        "datos_entrada": "V1=7 V ; R1=30 Ω ; R2=10 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 200.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 100.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 1.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "114",
+        "ejercicio_guia": "114",
+        "datos_entrada": "V1=36 V ; V2=30 V ; R1=600 Ω ; R2=300 Ω ; R3=300 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 28.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 36.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 64.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 19.2,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "115",
+        "ejercicio_guia": "115",
+        "datos_entrada": "V=330 V ; Va=231 V ; Vb=165 V ; I=66 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 1.5,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 2.5,
+                "unidad": "kΩ"
+            }
+        ]
+    },
+    {
+        "id": "116",
+        "ejercicio_guia": "116",
+        "datos_entrada": "V1=30 V ; V2=90 V ; R1=150 Ω ; R2=150 Ω ; R3=5 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 175.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 575.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 750.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 3.75,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "117",
+        "ejercicio_guia": "117",
+        "datos_entrada": "V1=25 V ; Va=10 V ; I2=200 mA ; I3=50 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 60.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 50.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 200.0,
+                "unidad": "Ω"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 250.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "118",
+        "ejercicio_guia": "118",
+        "datos_entrada": "V=9 V ; Va=6 V ; Vb=3 V ; I=3 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            }
+        ]
+    },
+    {
+        "id": "119",
+        "ejercicio_guia": "119",
+        "datos_entrada": "V1=9 V ; V2=27 V ; R1=3 Ω ; R2=3 Ω ; R3=1 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 600.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 6.6,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 7.2,
+                "unidad": "A"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 7.2,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "120",
+        "ejercicio_guia": "120",
+        "datos_entrada": "V=5 V ; Va=2 V ; I2=2 mA ; I3=1 mA",
+        "variables": [
+            {
+                "nombre": "R1",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R2",
+                "respuesta": 1.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "R3",
+                "respuesta": 2.0,
+                "unidad": "kΩ"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 3.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "121",
+        "ejercicio_guia": "121",
+        "datos_entrada": "V1=3 V ; V2=9 V ; R1=15 Ω ; R2=45 Ω ; R3=45 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": -40.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 120.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 80.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 3.6,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "123",
+        "ejercicio_guia": "123",
+        "datos_entrada": "V=6 V ; R1=6 Ω ; R2=2 Ω ; R3=4 Ω",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 2.4,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 3.6,
+                "unidad": "A"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 600.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 3.0,
+                "unidad": "A"
+            }
+        ]
+    },
+    {
+        "id": "124",
+        "ejercicio_guia": "124",
+        "datos_entrada": "V=10 V ; R1=6 kΩ ; R2=3 kΩ ; R3=1 kΩ",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 4.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 1.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 1.0,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "125",
+        "ejercicio_guia": "125",
+        "datos_entrada": "V=1,35 V ; R1=200 Ω ; R2=300 Ω ; R3=150 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 4.5,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 1.5,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 3.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 0.45,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "126",
+        "ejercicio_guia": "126",
+        "datos_entrada": "V1=15 V ; V2=10 V ; R1=1,5 kΩ ; R2=3 kΩ ; R3=1,5 kΩ",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 4.67,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 0.67,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 5.33,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 8.0,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "127",
+        "ejercicio_guia": "127",
+        "datos_entrada": "V=6 V ; R1=6 kΩ ; R2=4 kΩ ; R3=2 kΩ",
+        "variables": [
+            {
+                "nombre": "Va",
+                "respuesta": 3.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "Vb",
+                "respuesta": 1.0,
+                "unidad": "V"
+            },
+            {
+                "nombre": "I1",
+                "respuesta": 0.5,
+                "unidad": "mA"
+            }
+        ]
+    },
+    {
+        "id": "128",
+        "ejercicio_guia": "128",
+        "datos_entrada": "V=15 V ; R1=250 Ω ; R2=500 Ω ; R3=500 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 30.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 15.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 15.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 7.5,
+                "unidad": "V"
+            }
+        ]
+    },
+    {
+        "id": "129",
+        "ejercicio_guia": "129",
+        "datos_entrada": "V1=12 V ; V2=10 V ; R1=20 Ω ; R2=10 Ω ; R3=10 Ω",
+        "variables": [
+            {
+                "nombre": "I1",
+                "respuesta": 280.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I2",
+                "respuesta": 360.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "I3",
+                "respuesta": 640.0,
+                "unidad": "mA"
+            },
+            {
+                "nombre": "Va",
+                "respuesta": 6.4,
+                "unidad": "V"
+            }
+        ]
+    }
+]
